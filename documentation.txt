@@ -1,0 +1,25 @@
+Framework and Libraries
+1. Framework: Next.js Chosen due to its SEO-friendly features and optimization capabilities, making it ideal for building highly performant web applications.
+
+2. CSS Library: Tailwind CSS Selected for its utility-first approach, allowing for rapid and consistent styling across the application.
+
+Design Approach
+1. Design Pattern : Implemented a standard design pattern that focuses on simplicity and user experience.
+    
+2. Header : The header is set as a global component, featuring a logo and a search bar. This allows for consistent navigation and user interaction across the application.
+
+3. Grid Layout : A grid layout is utilized to display the user list, providing a structured and visually appealing way to present data.
+
+4. Pagination : Pagination is implemented to enable users to easily navigate between different pages of results, enhancing the overall usability.
+
+5. Mobile Responsiveness : The layout is designed to be fully responsive, ensuring that the application provides an optimal experience on mobile devices.
+
+How to Run the Project
+
+1. Install Node.js : Ensure that Node.js is installed on your system.
+
+2. Install Dependencies : Run npm install to install all necessary dependencies.
+
+3. Run the Development Server : Use 'npm run dev' to start the development server.
+
+4. Build the Application : For production, run 'npm run build' to create an optimized build of the application.
